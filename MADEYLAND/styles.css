@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+.background {
+    background-image: url('/images/ME1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.content {
+    text-align: center;
+}
+h1 {
+    font-size: 59px;
+}
